@@ -1,3 +1,3 @@
 # git-test
 
-git 연습용 
+git 연습
