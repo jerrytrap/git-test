@@ -1,3 +1,3 @@
-# README 추가
+# git-test
 
-VScode
+git 연습용 
